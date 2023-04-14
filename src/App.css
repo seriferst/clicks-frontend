@@ -1,0 +1,21 @@
+body {
+  background-color: azure;
+}
+
+.app {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.count {
+  text-align: center;
+  background-color: #4ab54a;
+  margin-left: 40%;
+  margin-right: 40%;
+  color: white;
+  font-weight: bold;
+}
+
+.content {
+  margin-top: 50px;
+}
